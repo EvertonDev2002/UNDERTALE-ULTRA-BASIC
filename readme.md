@@ -1,4 +1,4 @@
-Faça as seguintes instaçaões para o pleno funcionamento =>
+Faça as seguintes instalaç para o pleno funcionamento =>
 
 Instale o playsound:
 pip install playsound
